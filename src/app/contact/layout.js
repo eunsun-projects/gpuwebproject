@@ -1,9 +1,5 @@
-import '../globals.css'
+import "../globals.css";
 
 export default function ContactLayout({ children }) {
-    return (
-        <div>
-            {children}
-        </div>
-    )
+	return <div>{children}</div>;
 }

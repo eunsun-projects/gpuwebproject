@@ -1,9 +1,5 @@
-import '../globals.css'
+import "../globals.css";
 
 export default function StringsLayout({ children }) {
-    return (
-        <div>
-            {children}
-        </div>
-    )
+	return <div>{children}</div>;
 }

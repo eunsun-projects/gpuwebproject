@@ -1,14 +1,13 @@
-export const testsdata =[
-    {
-        num : 6,
-        gpunum : 'GPU - 7 - :',
-        slug : 'sanctum',
-        title : '"Sanctum"',
-        artist : [],
-        date : '13 June 2023 ~',
-        img : ['sanctum01.png'],
-        text :
-`<div><p style="font-style:italic;">“Sanctum”</p><br /><br />
+export const testsdata = [
+	{
+		num: 6,
+		gpunum: "GPU - 7 - :",
+		slug: "sanctum",
+		title: '"Sanctum"',
+		artist: [],
+		date: "13 June 2023 ~",
+		img: ["sanctum01.png"],
+		text: `<div><p style="font-style:italic;">“Sanctum”</p><br /><br />
 <p>e1m1:hanger의 충격에서 어느덧 30년이 흘렀다.</p><br /><br />
 <p>우리는 그 혁신으로부터 과연 무엇을 배웠을까?</p><br /><br />
 <p>익숙하고 뻔한 오락거리가 되었고 환영 중에서도 저급 환영 취급만 남은 것 같다.<br />
@@ -21,29 +20,28 @@ export const testsdata =[
 <p>✹기간 : 2023. 6. 13 ~<br />
 ✹기획 : GPU<br />
 ✹제작 : screenxyz</p></div>`,
-        vr : 'https://xr.screenxyz.net/vas/sanctum'
-    },
-    {
-        num : 5,
-        gpunum : 'GPU - 6 - :',
-        slug : 'src',
-        title : '"SRC"',
-        artist : ['Eun Oh'],
-        date : '20 Dec 2022 ~',
-        img : ['src01.png'],
-        text : '',
-        vr : 'https://xr.screenxyz.net/src'
-    },
-    {
-        num : 4,
-        gpunum : 'GPU - 5 - :',
-        slug : 'sujanggo',
-        title : '"SUJANGGO.basestation"',
-        artist : [],
-        date : '28 ~ Oct 2022',
-        img : ['sujanggo01.png'],
-        text : 
-`<div><p>3rd SUJANGGO수장고 《SUJANGGO.기지국》</p><br /><br />
+		vr: "https://xr.screenxyz.net/vas/sanctum",
+	},
+	{
+		num: 5,
+		gpunum: "GPU - 6 - :",
+		slug: "src",
+		title: '"SRC"',
+		artist: ["Eun Oh"],
+		date: "20 Dec 2022 ~",
+		img: ["src01.png"],
+		text: "",
+		vr: "https://xr.screenxyz.net/src",
+	},
+	{
+		num: 4,
+		gpunum: "GPU - 5 - :",
+		slug: "sujanggo",
+		title: '"SUJANGGO.basestation"',
+		artist: [],
+		date: "28 ~ Oct 2022",
+		img: ["sujanggo01.png"],
+		text: `<div><p>3rd SUJANGGO수장고 《SUJANGGO.기지국》</p><br /><br />
 <p>3rd SUJANGGO수장고 《SUJANGGO.기지국》<br />
 2022. 10. 28. (금)一11. 06. (일)<br />
 12:00 - 19:00<br />
@@ -66,18 +64,17 @@ export const testsdata =[
 협력 | 마더 미디어, 정지수<br />
 후원 | 온라인미디어 예술활동 지원사업, 문화체육관광부, 한국문화예술위원회</p><br /><br />
 <p>본 프로젝트는 문화체육관광부, 한국문화예술위원회 <2022년 온라인미디어 예술활동 지원사업>의 지원을 받아 제작되었습니다.</p></div>`,
-        vr : 'https://xr.screenxyz.net/sujanggo'
-    },
-    {
-        num : 3,
-        gpunum : 'GPU - 4 - :',
-        slug : 'coordinates',
-        title : '"COORDINATES"',
-        artist : ['Youngjea Kim'],
-        date : '2 - 16 Aug 2022',
-        img : ['coord01.jpg', 'coord02.jpg', 'coord03.jpg', 'coord04.jpg'],
-        text : 
-`<div><p style="font-weight:bold;text-align:center;">"work: 새로운 과거를 추동하는 회화"</p><br /><br />
+		vr: "https://xr.screenxyz.net/sujanggo",
+	},
+	{
+		num: 3,
+		gpunum: "GPU - 4 - :",
+		slug: "coordinates",
+		title: '"COORDINATES"',
+		artist: ["Youngjea Kim"],
+		date: "2 - 16 Aug 2022",
+		img: ["coord01.jpg", "coord02.jpg", "coord03.jpg", "coord04.jpg"],
+		text: `<div><p style="font-weight:bold;text-align:center;">"work: 새로운 과거를 추동하는 회화"</p><br /><br />
 <p style="font-weight:bold;text-align:right;">권시우</p><br /><br />
 <p>과거라는 영토는 무수히 침략당했지만, 그와 별개로 ‘그곳’은 미처 식민화되지 못했다. 애초에 식민화는 지배 욕구에 기반한다. 그러나 유튜브 시대 이후, 네트에 산개한 과거의 단편들은 사용자를 자처하는 누구나 선뜻 소비할 수 있는 재료로 거듭났다. 그런 의미에서 과거는 일종의 공유지에 가깝다. 공유지에 합류한 일련의 사용자들은 각자의 방식으로 과거를 재편하면서, 식민주의가 도저히 파악할 수 없는 혼란상을 초래했다. 문제는 이때의 혼란상이 저항의 수사를 넘어서, 그것을 초래한 사용자 자신마저도 통제할 수 없는 지경에까지 이르렀다는 사실이다. 그렇다면 이는 아나키즘의 소산인가? 하지만 과거에는 정치적인 의도가 없다. 다만 ‘그곳’은 너무나도 번성한 나머지, 마침내 영토의 경계에서 벗어나 자신에 대한 복음을 현재로 설파하기 시작한다.</p><br /><br />
 <p>지금의 우리는 그러한 복음에 충분히 감화돼 있다. 과거가 가라사대, 현재는 더 이상 새롭게 개간될 수 없으며, 단지 자신을 대변하는 무수한 컨텐츠들을 수용하기 위한 시간의 공백에 불과하다. 실제로 이때의 컨텐츠는 ‘새로움’에 대한 허기를 얼마간 충족시켜준다. 이를테면 우리들 대다수가 경험한 적 없는 과거가 데이터라는 형식을 매개로 현전하는 순간 발생하는 충격은, 새로운 과거라는 모순된 표현을 기꺼이 허용한다. 심지어 일련의 사용자들은 자신이 체감한 충격을 무릅쓰고, 이미 지나간 컨텐츠들을 다양한 방식으로 매시업하면서, 새로운 과거에 대한 소비를 적극적으로 유도하기에 이른다. 물론 그럴수록 충격은 둔화되지만, 바로 그렇기 때문에 한때 과거가 초래했던 혼란상은 사용자의 권한을 토대로 충분히 통제할 수 있는 나름의 개요를 확보하게 된다.</p><br /><br />
@@ -113,39 +110,39 @@ export const testsdata =[
 <p>작업을 진행할 지지체의 면적과 동일한 마스킹 필름에, 칼날 두 개를 11자 형태로 함께 붙잡아, 한 획에 2줄씩 절개되는 칼선을 반복하여 적용해, 표면 전체를 가득 채우는 과정으로부터 여정은 시작된다. 진행된 필름은 지지체 표면으로 옮겨진 후, 칼선의 내부에 해당하는 필름들만 모두 벗겨 제거하게 된다. 그렇게 하면 표면은 스트라이프 형태의 필름으로 마스킹 되는데, 이 상태가 회화의 기본 밑 작업에 해당한다. 그 위에 페인팅을 진행하고 물감이 모두 건조된 후, 마스킹 필름을 제거하면, 결과물에서는 필름이 지지체로 옮겨지기 이전과 그 이후의 표면을 동일 화면에서 함께 보게 된다.</p><br /><br />
 <p>작업(work 6)은 기본이 되는 각기 다른 회화 3점을 먼저 제작하고, 이 후 필름이 적용되어 진행될 층위 작업 횟수를 두 번과 세 번으로 나누어, 두 번 적용된 이중화면 3점, 세 번 적용된 삼중화면 3점, 하여 총 9점의 회화로 진행되었다. 이는 최초 3점(1,2,3)이 각 화면에서 겹칠 수 있는 순서를 야바위 하듯 뒤섞고 그 경우의 수를 바탕으로 이중화면, 삼중화면의 결과값을 도출한 뒤, 그 일부를 선별한 것이다. 선별 조건은 과정상 같은 순서의 조합이 화면에서 중복하지 않게, 이중 화면의 여섯 가지(1/2, 1/3, 2/1, 2/3, 3/1, 3/2) 중 삼중 화면(1/2/3, 2/3/1, 3/1/2)과 중복되는 세 가지(1/2, 2/3, 3/1)는 미리 제외하여 진행하고, 삼중 화면에서도 마찬가지로 앞서 선별한 이중 화면과 중복되는 값을 뺀 나머지 값(1/3, 2/1, 3/2)으로 진행하였다. 해당 작업에서 같은 그림을 총 6번씩 반복하여 그렸고, 결과물로 남은 9점에서 실제 진행된 회화의 횟수는 총18회이다.</p> 
 </div>`,
-        vr : 'https://xr.screenxyz.net/coordinates'
-    },
-    {
-        num : 2,
-        gpunum : 'GPU - 3 - :',
-        slug : 'tabbybone',
-        title : '"범은 그려도 뼈다귀는 못 그린다 Tabby Bone"',
-        artist : ['Intan Kwak', 'Eusung Lee', 'Eunsae Lee'],
-        date : '32 - 27 Fev 2022',
-        img : ['tabby01.jpg', 'tabby02.jpg'],
-        text : '',
-        vr : 'https://xr.screenxyz.net/tabbybone'
-    },
-    {
-        num : 1,
-        gpunum : 'GPU - 2 - :',
-        slug : 'ult',
-        title : '"ULT"',
-        artist : ['Intan Kwak', 'Youngjea Kim', 'Seongjin Jeong'],
-        date : '30 Oct - 2 Nov 2021',
-        img : ['ult01.jpg'],
-        text : '',
-        vr : ''
-    },
-    {
-        num : 0,
-        gpunum : 'GPU - 1 - :',
-        slug : 'auto',
-        title : '"AUTO"',
-        artist : ['Intan Kwak', 'Youngjea Kim', 'Eun Oh'],
-        date : '2-8 September 2021',
-        img : ['auto01.jpg'],
-        text : '',
-        vr : ''
-    }
-] 
+		vr: "https://xr.screenxyz.net/coordinates",
+	},
+	{
+		num: 2,
+		gpunum: "GPU - 3 - :",
+		slug: "tabbybone",
+		title: '"범은 그려도 뼈다귀는 못 그린다 Tabby Bone"',
+		artist: ["Intan Kwak", "Eusung Lee", "Eunsae Lee"],
+		date: "32 - 27 Fev 2022",
+		img: ["tabby01.jpg", "tabby02.jpg"],
+		text: "",
+		vr: "https://xr.screenxyz.net/tabbybone",
+	},
+	{
+		num: 1,
+		gpunum: "GPU - 2 - :",
+		slug: "ult",
+		title: '"ULT"',
+		artist: ["Intan Kwak", "Youngjea Kim", "Seongjin Jeong"],
+		date: "30 Oct - 2 Nov 2021",
+		img: ["ult01.jpg"],
+		text: "",
+		vr: "",
+	},
+	{
+		num: 0,
+		gpunum: "GPU - 1 - :",
+		slug: "auto",
+		title: '"AUTO"',
+		artist: ["Intan Kwak", "Youngjea Kim", "Eun Oh"],
+		date: "2-8 September 2021",
+		img: ["auto01.jpg"],
+		text: "",
+		vr: "",
+	},
+];

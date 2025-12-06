@@ -70,11 +70,9 @@ export default async function MdPageslug({ params }) {
 				// eslint-disable-next-line
 			}
 			<p style={{ textAlign: "center" }}>대화 일자: {post.date}</p>
-			<ReactMarkdown
-				className={styles.slugdes}
-				children={post.content}
-				remarkPlugins={[remarkGfm]}
-			/>
+			<ReactMarkdown className={styles.slugdes} remarkPlugins={[remarkGfm]}>
+				{post.content}
+			</ReactMarkdown>
 		</div>
 	);
 }
